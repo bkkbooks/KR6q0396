@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0396_000.yaml, hash: 'sha256:02644b78817db6743eb9a726a66a514266858fe52736edded30b0a546c5d4cc2'}
+  - {seq: 0, filename: KR6q0396_000.yaml, hash: 'sha256:5e723d9a8b81d79d9376992e2e7704e158199d74277c6e21dd4e46cb16599c46'}
   - {seq: 1, filename: KR6q0396_001.yaml, hash: 'sha256:61db19e37987013865c1cb6c6775167212cadba1015e750a962e2c96ea2d003c'}
   - {seq: 2, filename: KR6q0396_002.yaml, hash: 'sha256:45ad906844736992975b5610b54ebf02d8b3224b68788b806917f2559fd65c22'}
   - {seq: 3, filename: KR6q0396_003.yaml, hash: 'sha256:b83555f1ff235808cb5518b8a25e1a3da28e4f731b9cac2a6020d8b1539da8ad'}
   - {seq: 4, filename: KR6q0396_004.yaml, hash: 'sha256:7e4fb2764ac1466d2a5a42c946dfea9e2da8cf5b622ee9e46295e738814d09f2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0396_000.markers.yaml, hash: 'sha256:5ea53ec4559eb4057c1a00cdbcfe008e778dfd7246a28842fa614344441e56d2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0396_000.markers.yaml, hash: 'sha256:dd005f12b0d30598848610e4f8710e3a5e937b2bde40de0f70410e25f693efbf'}
   - {seq: 1, role: markers, filename: assets/KR6q0396_001.markers.yaml, hash: 'sha256:ae3f565bc21ad8337966de8137159e6cd74662de273c1fc2937aa7830346466b'}
   - {seq: 2, role: markers, filename: assets/KR6q0396_002.markers.yaml, hash: 'sha256:02eb81ef3c5846df5b4b91b21e64308f310f8b4cc28daca7914564826d88ab27'}
   - {seq: 3, role: markers, filename: assets/KR6q0396_003.markers.yaml, hash: 'sha256:6b283ab2d74dc2b4684afa2be20e38ceca7092798ba64b458ad3cc9e01b46520'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0396_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 古庭語錄輯略序
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0396_J_000-mulu-2
     span:
-    - front
+    - body
     - 1126
     - 1126
   label: 古庭祖師語錄敘
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0396_J_000-mulu-3
     span:
-    - front
+    - body
     - 1133
     - 1133
   label: 古庭祖師語錄序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0396_J_000-mulu-4
     span:
-    - front
+    - body
     - 1524
     - 1524
   label: 古庭輯路序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0396_J_000-mulu-5
     span:
-    - front
+    - body
     - 1916
     - 1916
   label: 古庭祖師輯略目錄
@@ -2283,7 +2283,7 @@ table_of_contents:
   label: 其十
   type: mulu
   level: 1
-hash: sha256:c138c3728874349685560789f20cf2b1dcede290176309c5b473eadfb7f25f3f
+hash: sha256:1536a9df47d32d37ef5f8fc6779feb9c23d53e11a10a57f1fe66e25638e994fc
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
